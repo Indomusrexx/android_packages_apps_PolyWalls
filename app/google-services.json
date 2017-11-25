@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020256432034",
+    "firebase_url": "https://polyoswalls.firebaseio.com",
+    "project_id": "polyoswalls",
+    "storage_bucket": "polyoswalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020256432034:android:501a74a45529c229",
+        "android_client_info": {
+          "package_name": "com.jiren.poly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020256432034-a9fg55ucr6uprsgsvgucd39hqb0uhd1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiren.poly",
+            "certificate_hash": "b73bff7621f2de6ec8af12a18a3c76da18ffc548"
+          }
+        },
+        {
+          "client_id": "1020256432034-5p1g837dhquus13spamdri24khubf844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrDCFx3LZQJXFDbajcscdQ3mHB_Z5Lmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020256432034-5p1g837dhquus13spamdri24khubf844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
