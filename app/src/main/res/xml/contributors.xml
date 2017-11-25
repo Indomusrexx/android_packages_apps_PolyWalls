@@ -2,7 +2,7 @@
 <resources>
 
     <contributor
-        name="ATechNoHazaed(Amogh Lele)"
+        name="ATechNoHazard(Amogh Lele)"
         contribution="ROM Author"
         image="https://avatars0.githubusercontent.com/u/31761843?v=4&amp;s=460"
         link="https://github.com/ATechnoHazard" />
@@ -13,9 +13,9 @@
         link="https://github.com/jobinrjohnson" />
     <contributor
         name="InfixRemix"
-        contribution="Commits"
+        contribution="Noob"
         image=""
-        link="" />
+        link="https://github.com/infixremix" />
     <contributor
         name="IndominusRexx(Ravi Pingat)"
         contribution="Commits"
@@ -29,8 +29,13 @@
         link="" />
     <contributor
         name="JirenGOD(Ssaurabh Sharma)"
-        contribution="Wall App"
+        contribution="PolyWalls"
         image=""
         link="https://github.com/saurabh983" />
+    <contributor
+        name="AmarJeetVirk"
+        contribution="Commits"
+        image=""
+        link="" />
 
 </resources>
