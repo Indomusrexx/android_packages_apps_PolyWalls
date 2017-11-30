@@ -9,7 +9,7 @@
 
     <!-- CONFIG: APPLICATION NAME -->
 
-    <string name="app_name">Poly Walls</string>
+    <string name="app_name">Poly Wallpapers</string>
 
     <!-- CONFIG: DEFAULT THEME -->
 
@@ -30,7 +30,7 @@
     <!-- CONFIG: TOOLBAR -->
 
     <!-- Toolbar title -->
-    <string name="toolbar_title">Poly OS Team</string>
+    <string name="toolbar_title">Poly OS </string>
 
     <!-- CONFIG: Wallpapers -->
 
